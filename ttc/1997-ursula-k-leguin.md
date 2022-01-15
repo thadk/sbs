@@ -4,7 +4,7 @@ Source: book
 Code: uklg
 
 ## 1
-Taoing  
+**Taoing**  
 The way you can go  
 isn't the real way.  
 The name you can say  
@@ -28,7 +28,7 @@ Mystery of all mysteries!
 The door to the hidden. 
 
 ## 2   
-Soul food  
+**Soul food**  
 Everybody on earth knowing  
 that beauty is beautiful  
 makes ugliness.  
@@ -61,7 +61,7 @@ for just letting it go
 is what makes it stay.  
 
 ## 3
-Hushing  
+**Hushing**  
 Not praising the praiseworthy  
 keeps people uncompetitive.  
 
@@ -87,7 +87,7 @@ When you do not-doing,
 nothing's out of order.   
 
 ## 4
-Sourceless  
+**Sourceless**  
 The way is empty,  
 used, but not used up.  
 Deep, yes! ancestral  
@@ -104,7 +104,7 @@ Whose child? born
 before the gods.  
 
 ## 5
-Useful emptiness  
+**Useful emptiness**  
 Heaven and earth aren't humane.  
 To them the ten thousand things  
 are straw dogs.  
@@ -120,7 +120,7 @@ Empty yet structured,
 it moves, inexhaustibly   giving.  
 
 ## 6
-What is complete  
+**What is complete**  
 The valley spirit never dies.  
 Call it the mystery, the woman.  
 
@@ -133,7 +133,7 @@ And all its uses are easy.
 
 ## 7
 
-Dim brightness  
+**Dim brightness**  
 Heaven will last,  
 earth will endure.  
 How can they last so long?  
@@ -150,7 +150,7 @@ To keep what the soul needs.
 
 ## 8
 
-Easy by nature  
+**Easy by nature**  
 True goodness  
 is like water.  
 Water's good  
@@ -176,7 +176,7 @@ so no blame.
 
 ## 9
 
-Being quiet  
+**Being quiet**  
 Brim-fill the bowl,  
 it'll spill over.  
 Keep sharpening the blade,  
@@ -191,7 +191,7 @@ To do good, work well, and lie low
 is the way of the blessing.  
 
 ## 10
-Techniques  
+**Techniques**  
 Can you keep your soul in its body,  
 hold fast to the one,  
 and so learn to be whole?  
